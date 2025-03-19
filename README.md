@@ -9,7 +9,8 @@
 
 2.下载我在Release下准备的替换jar包，放入"A"文件夹中替换  
 
-3.编辑alpa.yml文件，在最后一行后换行加上 path:'YourTargetDirectory' 例如 path:'D:\Test',如果已有path:''则直接填入即可  
+3.编辑alpa.yml文件，在最后一行后换行加上 path:'YourTargetDirectory' 例如 path:'D:\Test'  
+(如果已有path:''则直接填入即可)  
 
 4.运行"A"文件夹中的launch.bat  
 
