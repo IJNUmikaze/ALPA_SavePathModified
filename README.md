@@ -7,7 +7,7 @@
 ## 使用方法
 1.前往https://github.com/Deficuet/AzurLanePaintingAnalysis-Kt 获取Release下最新文件，解压所有文件放入你指定的文件夹记作"A"  
 2.下载我在Release下准备的替换jar包，放入"A"文件夹中替换  
-3.编辑alpa.yml文件，在最后一行后换行加上 path:'YourTargetDirectory' 例如 path:'D:\Test'  
+3.编辑alpa.yml文件，在最后一行后换行加上 path:'YourTargetDirectory' 例如 path:'D:\Test',如果已有path:''则直接填入即可  
 4.运行"A"文件夹中的launch.bat  
 5.前往https://github.com/Deficuet/AzurLanePaintingAnalysis-Kt/blob/main/README.md 查阅具体的使用教程  
 
